@@ -1,0 +1,14 @@
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\bin\Debug\net8.0\Menu interativo.exe
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\bin\Debug\net8.0\Menu interativo.deps.json
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\bin\Debug\net8.0\Menu interativo.runtimeconfig.json
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\bin\Debug\net8.0\Menu interativo.dll
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\bin\Debug\net8.0\Menu interativo.pdb
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.AssemblyInfoInputs.cache
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.AssemblyInfo.cs
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.csproj.CoreCompileInputs.cache
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.dll
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\refint\Menu interativo.dll
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.pdb
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\Menu interativo.genruntimeconfig.cache
+C:\Users\Thais\OneDrive\Documentos\Projetos de Programação\Menu interativo\obj\Debug\net8.0\ref\Menu interativo.dll
